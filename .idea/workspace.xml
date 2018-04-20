@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c0a404-0506-4541-a621-825c1c444b7a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Equipe.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/js/canvas.js" afterPath="$PROJECT_DIR$/js/canvas.js" />
-      <change beforePath="$PROJECT_DIR$/php/Autre/Equipe.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/footer.php" afterPath="$PROJECT_DIR$/php/footer.php" />
-      <change beforePath="$PROJECT_DIR$/php/header.php" afterPath="$PROJECT_DIR$/php/header.php" />
-      <change beforePath="$PROJECT_DIR$/php/index.php" afterPath="$PROJECT_DIR$/php/index.php" />
-    </list>
+    <list default="true" id="24c0a404-0506-4541-a621-825c1c444b7a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -269,12 +260,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523996362228</updated>
       <workItem from="1523996364277" duration="4764000" />
-      <workItem from="1524037123714" duration="15919000" />
+      <workItem from="1524037123714" duration="16002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20683000" />
+    <option name="totallyTimeSpent" value="20766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

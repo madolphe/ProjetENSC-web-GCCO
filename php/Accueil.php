@@ -12,47 +12,130 @@ ImagePng ($im); //On l'enregistre au format png */
 	<title>Canvas tutorial</title>
 	<script type="text/javascript">
         function draw() {
-            var canvas = document.getElementById('tutorial');
-            if (canvas.getContext) {
-                var ctx = canvas.getContext("2d");
-
-                /* Rectangle qui se superpose
-                ctx.fillRect(25, 25, 100, 100);
-                ctx.clearRect(45, 45, 60, 60);
-                ctx.strokeRect(50, 50, 50, 50);
+            var canvas = document.getElementById('accueil-txt');
+            var ctx = canvas.getContext('2d');
+			if(canvas.getContext){
+                ctx.font = '25px serif';
+                ctx.fillText('ACCEUIL', 90 ,35 );
+			}
+            var canvas = document.getElementById('accueil-txt');
+            var ctx = canvas.getContext('2d');
+            if(canvas.getContext){
+                ctx.font = '25px serif';
+                ctx.fillText('ACCEUIL', 90 ,35 );
+            }
+            var canvas = document.getElementById('accueil-txt');
+            var ctx = canvas.getContext('2d');
+            if(canvas.getContext){
+                ctx.font = '25px serif';
+                ctx.fillText('ACCEUIL', 90 ,35 );
+            }
+			var ctx = document.getElementById('ligne').getContext('2d');
+            if(ligne.getContext){
+                //ctx.strokeRect(200, 50, 200, 50);
                 ctx.beginPath();
-                Triangle plein:
-                ctx.moveTo(75, 50);
-                ctx.lineTo(100, 75);
-                ctx.lineTo(100, 25);
-                ctx.fill();*/
-
-                //Faire un smiley
-                /*ctx.beginPath();
-                ctx.arc(75, 75, 50, 0, Math.PI * 2, true);  // Cercle extérieur
-                ctx.moveTo(110,75);
-                ctx.arc(75, 75, 35, 0, Math.PI, false);  // Bouche (sens horaire)
-                ctx.moveTo(65, 65);
-                ctx.arc(60, 65, 5, 0, Math.PI * 2, true);  // Oeil gauche
-                ctx.moveTo(95, 65);
-                ctx.arc(90, 65, 5, 0, Math.PI * 2, true);  // Oeil droite
-                ctx.stroke();*/
+                ctx.moveTo(150, 0);
+                ctx.lineTo(150, 50);
+                ctx.closePath();
+                ctx.stroke();
+            }
+            var ctx = document.getElementById('ligne2').getContext('2d');
+            if(ligne.getContext){
+                //ctx.strokeRect(200, 50, 200, 50);
                 ctx.beginPath();
-                ctx.moveTo(125, 125);
-                ctx.lineTo(125, 45);
-                ctx.lineTo(45, 125);
+                ctx.moveTo(150, 0);
+                ctx.lineTo(150, 50);
+                ctx.closePath();
+                ctx.stroke();
+                ctx.beginPath();
+                ctx.moveTo(520, 0);
+                ctx.lineTo(520, 50);
+                ctx.closePath();
+                ctx.stroke();
+                ctx.beginPath();
+                ctx.moveTo(900, 0);
+                ctx.lineTo(900, 50);
+                ctx.closePath();
+                ctx.stroke();
+            }
+            var ctx = document.getElementById('ligne3').getContext('2d');
+            if(ligne.getContext){
+                //ctx.strokeRect(200, 50, 200, 50);
+                ctx.beginPath();
+                ctx.moveTo(150, 0);
+                ctx.lineTo(150, 50);
+                ctx.closePath();
+                ctx.stroke();
+                ctx.beginPath();
+                ctx.moveTo(520, 0);
+                ctx.lineTo(520, 50);
+                ctx.closePath();
+                ctx.stroke();
+            }
+            var ctx = document.getElementById('ligne4').getContext('2d');
+            if(ligne.getContext){
+                //ctx.strokeRect(200, 50, 200, 50);
+                ctx.beginPath();
+                ctx.moveTo(150, 0);
+                ctx.lineTo(150, 50);
+                ctx.closePath();
+                ctx.stroke();
+                ctx.beginPath();
+                ctx.moveTo(520, 0);
+                ctx.lineTo(520, 50);
                 ctx.closePath();
                 ctx.stroke();
             }
         }
 	</script>
 	<style type="text/css">
-		canvas { border: 1px solid black; }
+		canvas.bord { border: 1px solid black; };
 	</style>
 </head>
+<?php include "header.php"; ?>
 <body onload="draw();">
+<br> <br>
 <div class="container">
-	<canvas id="tutorial" width="600" height="600"></canvas>
+	<div class="row">
+		<div class="col-4"></div>
+		<div class="col-4">		<a href="Accueil.php"><canvas class="bord" id="accueil-txt" width="300" height="50"></canvas></a></div>
+	</div>
+	<div class="row">
+		<div class="col-4"></div>
+		<div class="col-4">		<canvas id="ligne" width="300" height="50"></canvas>
+		</div>
+
+	</div>
+	<div class="row">
+		<div class="col-4"><canvas class="bord" id="Aéronautique" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord" id="Simulation" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord" id="Matériel" width="250" height="50"></canvas></div>
+	</div>
+	<div class="row">
+		<canvas id="ligne2" width="1100" height="50"></canvas>
+
+	</div>
+	<div class="row">
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+	</div>
+	<div class="row">
+		<canvas id="ligne3" width="1100" height="50"></canvas>
+	</div>
+	<div class="row">
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+	</div>
+	<div class="row">
+		<canvas id="ligne4" width="1100" height="50"></canvas>
+	</div>
+	<div class="row">
+		<div class="col-4"><canvas class="bord" id="canvas" width="250" height="50"></canvas></div>
+		<div class="col-4"><canvas class="bord"id="canvas" width="250" height="50"></canvas></div>
+	</div>
+
 </div>
+
 </body>
 </html>

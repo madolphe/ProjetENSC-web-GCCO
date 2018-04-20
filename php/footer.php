@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="container-fluid footer">
     <div class="row textFooter">
         <div class="col-3 text-center"><a href="#">Qui sommes-nous? </a></div>
         <div class="col-3 text-center"><a href="#">Nous contacter</a></div>

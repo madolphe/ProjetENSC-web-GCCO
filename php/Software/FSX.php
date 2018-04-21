@@ -1,7 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: adolphemaxime
- * Date: 17/04/2018
- * Time: 23:42
- */
+session_start();
+$_SESSION['page']="software";
+include_once "../header.php";
+?>
+<?php include_once "../footer.php"; ?>

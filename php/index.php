@@ -1,5 +1,8 @@
 
-<?php require_once "header.php"?>
+
+<?php session_start();
+$_SESSION["page"]="index";
+require_once "header.php"?>
 <div class="img-acc">
 	<h1>Projet transdisciplinaire "Cessna"</h1>
 </div>

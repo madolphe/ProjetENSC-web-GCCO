@@ -1,4 +1,7 @@
-<?php include_once "header.php"; ?>
+
+<?php session_start();
+$_SESSION["page"]="index";
+include_once "header.php"; ?>
 <div class="container equipe">
 	<div class="row">
 		<div class="col-3 text-center">
@@ -16,7 +19,6 @@
 					<li class="list-group-item">Dapibus ac facilisis in</li>
 					<li class="list-group-item">Vestibulum at eros</li>
 				</ul>
-
 				<div class="card-footer text-muted">
 					2 days ago
 				</div>
@@ -67,18 +69,17 @@
 				</div>
 				<img style="height: 200px; width: 100%; display: block;" src="../images/max.png" alt="Card image">
 				<div class="card-body">
-					<p class="card-text">Formation</p>
+					<p class="card-text">Role</p>
 				</div>
 				<ul class="list-group list-group-flush">
-					<li class="list-group-item">Cras justo odio</li>
-					<li class="list-group-item">Dapibus ac facilisis in</li>
-					<li class="list-group-item">Vestibulum at eros</li>
+					<li class="list-group-item">Formation :
+                    Bac S - Prépa MP</li>
+					<li class="list-group-item">Compétences:
+                    Bogossitude <br> Sait souder 2 fils mais parfois ca foire <br> Aime le contact humain </li>
 				</ul>
-				<div class="card-footer text-muted">
-					2 days ago
-				</div>
 			</div>
  </div>
 	</div>
 </div>
+<br><br>
 <?php include_once "footer.php" ?>

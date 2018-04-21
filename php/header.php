@@ -53,13 +53,13 @@ if($_SESSION["page"]=="hardware"){
 				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>index.php">Home <span class="sr-only">(current)</span></a>
 			</li>
 			<li class="nav-item <?php echo $aero ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Instrumentation.php">Aéronautique</a>
+				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Aeronautique.php">Aéronautique</a>
 			</li>
 			<li class="nav-item <?php echo $soft ?>">
 				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Software</a>
 			</li>
 			<li class="nav-item <?php echo $hard ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MatérielADisposition.php">Hardware</a>
+				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Hardware</a>
 			</li>
 		</ul>
 	</div>

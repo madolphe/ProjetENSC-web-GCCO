@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c0a404-0506-4541-a621-825c1c444b7a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/PhaseVol.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/Aeronautique.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/php/Accueil.php" afterPath="$PROJECT_DIR$/php/TEST/Accueil.php" />
-      <change beforePath="$PROJECT_DIR$/php/Autre/Contact.php" afterPath="$PROJECT_DIR$/php/Contact.php" />
-      <change beforePath="$PROJECT_DIR$/php/Aéronautique/Instrumentation.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/Aéronautique/NouvelleTechnologie.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/Aéronautique/PhaseVol.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/Equipe.php" afterPath="$PROJECT_DIR$/php/Equipe.php" />
-      <change beforePath="$PROJECT_DIR$/php/Hardware/MatérielADisposition.php" afterPath="$PROJECT_DIR$/php/Hardware/MatérielADisposition.php" />
-      <change beforePath="$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php" afterPath="$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php" />
+      <change beforePath="$PROJECT_DIR$/php/Hardware/MatérielADisposition.php" afterPath="$PROJECT_DIR$/php/Hardware/MaterielADisposition.php" />
       <change beforePath="$PROJECT_DIR$/php/Software/BonneSimulation.php" afterPath="$PROJECT_DIR$/php/Software/BonneSimulation.php" />
-      <change beforePath="$PROJECT_DIR$/php/Software/CréationScénario.php" afterPath="$PROJECT_DIR$/php/Software/CréationScénario.php" />
-      <change beforePath="$PROJECT_DIR$/php/Software/CréationScénarioPanne.php" afterPath="$PROJECT_DIR$/php/Software/CréationScénarioPanne.php" />
-      <change beforePath="$PROJECT_DIR$/php/Software/FSX.php" afterPath="$PROJECT_DIR$/php/Software/FSX.php" />
-      <change beforePath="$PROJECT_DIR$/php/footer.php" afterPath="$PROJECT_DIR$/php/footer.php" />
       <change beforePath="$PROJECT_DIR$/php/header.php" afterPath="$PROJECT_DIR$/php/header.php" />
       <change beforePath="$PROJECT_DIR$/php/index.php" afterPath="$PROJECT_DIR$/php/index.php" />
-      <change beforePath="$PROJECT_DIR$/php/test.php" afterPath="$PROJECT_DIR$/php/TEST/test.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,41 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PhaseVol.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Aeronautique/PhaseVol.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BonneSimulation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Equipe.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Equipe.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="80" column="7" lean-forward="true" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CréationScénario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Software/CréationScénario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="939">
+              <caret line="64" column="67" lean-forward="true" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -82,51 +38,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CréationScénarioPanne.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Software/CréationScénarioPanne.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="990">
+              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FSX.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Software/FSX.php">
+      <file leaf-file-name="Aeronautique.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/Aeronautique/Aeronautique.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BonneSimulation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding>
+                <element signature="e#1496#1501#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="990">
+              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NouvelleTechnologie.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instrumentation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Aeronautique/Instrumentation.php">
+      <file leaf-file-name="MaterielADisposition.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Hardware/MaterielADisposition.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,7 +128,6 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/php/Accueil.php" />
         <option value="$PROJECT_DIR$/php/footer.php" />
-        <option value="$PROJECT_DIR$/php/index.php" />
         <option value="$PROJECT_DIR$/php/Hardware/MatérielADisposition.php" />
         <option value="$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php" />
         <option value="$PROJECT_DIR$/php/Aéronautique/Instrumentation.php" />
@@ -168,15 +135,17 @@
         <option value="$PROJECT_DIR$/php/Aéronautique/PhaseVol.php" />
         <option value="$PROJECT_DIR$/php/Autre/Equipe.php" />
         <option value="$PROJECT_DIR$/php/Equipe.php" />
-        <option value="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" />
         <option value="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" />
         <option value="$PROJECT_DIR$/php/Aeronautique/PhaseVol.php" />
-        <option value="$PROJECT_DIR$/php/Software/BonneSimulation.php" />
         <option value="$PROJECT_DIR$/php/Software/CréationScénario.php" />
         <option value="$PROJECT_DIR$/php/Software/CréationScénarioPanne.php" />
         <option value="$PROJECT_DIR$/php/Software/FSX.php" />
         <option value="$PROJECT_DIR$/php/Contact.php" />
+        <option value="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" />
+        <option value="$PROJECT_DIR$/php/Aeronautique/Aeronautique.php" />
+        <option value="$PROJECT_DIR$/php/index.php" />
         <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/php/Software/BonneSimulation.php" />
       </list>
     </option>
   </component>
@@ -300,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523996362228</updated>
       <workItem from="1523996364277" duration="4764000" />
-      <workItem from="1524037123714" duration="18879000" />
+      <workItem from="1524037123714" duration="21630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23643000" />
+    <option name="totallyTimeSpent" value="26394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -469,46 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Hardware/MatérielADisposition.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Instrumentation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -521,14 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -557,14 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/Equipe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="80" column="7" lean-forward="true" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/Contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -575,8 +488,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="990">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Hardware/MaterielADisposition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Instrumentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Equipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="64" column="67" lean-forward="true" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="e#1496#1501#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Aeronautique.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

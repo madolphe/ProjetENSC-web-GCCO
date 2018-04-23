@@ -39,3 +39,29 @@
     margin-top: 80px;
     margin-bottom: 80px;
 }
+
+h3
+{
+	padding-bottom:5px;
+}
+
+/*Page MaterielADisposition*/
+
+#text-materiel
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+#volant
+{
+	padding-top:5px;
+	padding-bottom:10px;
+}
+
+td
+{
+	vertical-align:center;
+}

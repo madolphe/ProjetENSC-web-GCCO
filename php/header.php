@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="../css/style.css"> <?php } else { ?>
         <link rel="stylesheet" href="../../css/bootstrap.css">
         <link rel="stylesheet" href="../../css/style.css">
+		<link rel="stylesheet" href="../../css/FSX.css">
+		<link rel="stylesheet" href="../../css/AttributionCommandes.css">
     <?php  } ?>
     <script type="text/javascript" src="../js/canvas.js"></script>
 </head>

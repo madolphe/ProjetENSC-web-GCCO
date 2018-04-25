@@ -16,15 +16,30 @@ include_once "../header.php";
 </div>
 
 <div class="container" id="text-materiel">
-	<h3>Le volant ou Yoke</h3>
 	<div class="row" id="volant">
 		<table class="table">
-			<tbody>
 				<tr>
-				  <td><img src="../../images/Volant.jpg" alt="volant" align="left" height="100" width ="200"></td>
+					<td colspan="2"><h3>Le volant ou Yoke</h3></td>
+				</tr>
+
+				<tr>
+				  <td class="text-center"><img class="img-materiel" src="../../images/Volant.jpg" alt="volant"></td>
 				  <td><p>On trouve au centre du simulateur ce qu'on appelle le <b>volant</b> ou <b>yoke</b>.</p></td>
 				</tr>
-			</tbody>
+
+				<tr>
+				  <td class="text-center"><img src="../../images/num volant.png" alt="numeros volant"></td>
+				  <td><p>Voici plus en détail le rôle de chacun des boutons présents sur le volant :</p></td>
+				</tr>
+
+				<tr>
+					<td colspan="2"><h3>Les manettes des gaz</h3></td>
+				</tr>
+
+				<tr>
+					<td class="text-center"><img class="img-materiel" src="../../images/Manettes de gaz.jpg" alt="manettes des gaz" height="200" width ="100"></td>
+				  	<td><p>On trouve au centre du simulateur ce qu'on appelle le <b>volant</b> ou <b>yoke</b>.</p></td>
+				</tr>
 		</table>
 	</div>
 </div>

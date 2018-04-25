@@ -38,4 +38,40 @@
 .container.arborescence{
     margin-top: 80px;
     margin-bottom: 80px;
+<<<<<<< HEAD
+}
+
+h3
+{
+	padding-bottom:5px;
+}
+
+/*Page MaterielADisposition*/
+
+#text-materiel
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+#volant
+{
+	padding-top:5px;
+	padding-bottom:10px;
+}
+
+td
+{
+    vertical-align:center;
+    text-align:center;
+}
+
+.img-materiel
+{
+    max-height:300px;
+    width:auto;
+=======
+>>>>>>> e67057acede7696239106a199786be7866946d39
 }

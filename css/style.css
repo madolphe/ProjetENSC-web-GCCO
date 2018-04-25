@@ -63,5 +63,12 @@ h3
 
 td
 {
-	vertical-align:center;
+    vertical-align:center;
+    text-align:center;
+}
+
+.img-materiel
+{
+    max-height:300px;
+    width:auto;
 }

@@ -9,13 +9,25 @@ include_once "../header.php";
 
     <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
         <div class="text">
+            <h2> Créer une bonne simulation</h2>
+            <p> Tout au long de votre projet, vous devrez réaliser des expérimentations avec un environnement le plus proche de réalité. 
+            Pour cela, la première étape est de connaître les différents critères nécessaires à une bonne immerssion. Pour cela, cliquez sur le bouton.</p>
+                <a href="SimulationImmerssion.php"><button class="btn btn-primary" type="button">En savoir plus</button></a>
+        </div>
+    </section>
+
+    <section class="clean-block clean-hero" style="background-color:white">
+    <div class = "col-md-6">
+            <img src="../../images/menuFSX.png" alt="Card image"/>
+        </div>
+        <div class ="col-md-4">
             <h2> Flight simulator X</h2>
             <p> Pour en savoir plus sur ce logiciel de simulation de vol, cliquez sur le button ci dessous.</p>
                 <a href="FSX.php"><button class="btn btn-primary" type="button">En savoir plus</button></a>
         </div>
     </section>
 
-    <section class="clean-block clean-hero" style="background-color:white;">
+    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
         <div class = "col-md-6">
             <img src="../../images/CommandeFSUIPC.png" alt="Card image"/>
         </div>
@@ -27,7 +39,8 @@ include_once "../header.php";
                 <a href="AttributionCommandes.php"><button class="btn btn-primary" type="button">Se former</button></a>
         </div>
     </section>
-    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+
+    <section class="clean-block clean-hero" style="background-color:white;">
         <div class = "col-md-6">
             <img src="../../images/PlanVol.png" alt="Card image"/>
         </div>
@@ -38,7 +51,7 @@ include_once "../header.php";
                 <a href="CréationScénario.php"><button class="btn btn-primary" type="button">Se former</button></a>
         </div>
     </section>
-    <section class="clean-block clean-hero" style="background-color:white;">
+    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
         <div class = "col-md-6">
                 <img src="../../images/PlanVol.png" alt="Card image"/>
         </div>

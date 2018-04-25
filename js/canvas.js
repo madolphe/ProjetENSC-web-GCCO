@@ -77,4 +77,22 @@ function draw() {
         ctx.stroke();
         ctx.closePath();
     }
+    var canvas = document.getElementById('lien5');
+    var ctx = canvas.getContext('2d');
+    if (canvas.getContext) {
+        ctx.beginPath();
+        ctx.moveTo(500,0);
+        ctx.lineTo(500,50);
+        ctx.stroke();
+        ctx.closePath();
+    }
+    var canvas = document.getElementById('lien6');
+    var ctx = canvas.getContext('2d');
+    if (canvas.getContext) {
+        ctx.beginPath();
+        ctx.moveTo(500,0);
+        ctx.lineTo(500,50);
+        ctx.stroke();
+        ctx.closePath();
+    }
 }

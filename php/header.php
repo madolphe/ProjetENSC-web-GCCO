@@ -58,10 +58,10 @@ if($_SESSION["page"]=="hardware"){
 				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Aeronautique.php">Aéronautique</a>
 			</li>
 			<li class="nav-item <?php echo $soft ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Software</a>
+				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Simulation</a>
 			</li>
 			<li class="nav-item <?php echo $hard ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Hardware</a>
+				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Matériel</a>
 			</li>
 		</ul>
 	</div>

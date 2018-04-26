@@ -18,7 +18,7 @@ include_once "../header.php";
 
     <section class="clean-block clean-hero" style="background-color:white">
     <div class = "col-md-6">
-            <img src="../../images/menuFSX.png" alt="Card image"/>
+            <img src="../../images/menuFSX.jpg" alt="Card image"/>
         </div>
         <div class ="col-md-4">
             <h2> Flight simulator X</h2>

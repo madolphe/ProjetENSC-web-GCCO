@@ -38,7 +38,6 @@
 .container.arborescence{
     margin-top: 80px;
     margin-bottom: 80px;
-<<<<<<< HEAD
 }
 
 h3
@@ -72,6 +71,9 @@ td
 {
     max-height:300px;
     width:auto;
-=======
->>>>>>> e67057acede7696239106a199786be7866946d39
+}
+
+.legende
+{
+    padding-bottom:1px;
 }

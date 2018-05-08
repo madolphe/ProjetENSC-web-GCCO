@@ -45,6 +45,11 @@ h3
 	padding-bottom:5px;
 }
 
+h4
+{
+    color:#C0C0C0;
+}
+
 /*Page MaterielADisposition*/
 
 #text-materiel
@@ -76,4 +81,9 @@ td
 .legende
 {
     padding-bottom:1px;
+}
+
+#sous-item
+{
+    color:#C0C0C0;
 }

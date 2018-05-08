@@ -99,9 +99,21 @@ include_once "../header.php";
 
 					<tr>
 					<td class="text-center"><img src="../../images/num volant.png" alt="numeros volant"></td>
-					<td><p>Voici plus en détail le rôle de chacun des boutons présents sur le volant :</p></td>
+					<td><p>Voici plus en détail le rôle de chacun des boutons présents sur le volant :</p>
+					<br/>
+					<p class = "legende">1. Naviguer dans l'environnement</p>
+					<p class = "legende">2. Non utilisé</p>
+					<p class = "legende">3. Non utilisé</p>
+					<p class = "legende">4. Entrée et sortie des volets</p>
+					<p class = "legende">5. Non utilisé</p>
+					<p class = "legende">6. Sélection du chronomètre ou de l'heure</p>
+					<p class = "legende">7. Start/Stop du chronomètre</p>
+					<p class = "legende">8. Reset du chronomètre</p>
+					<p class = "legende">9. Ecran pour visualiser le chronomètre ou l'heure</p>
+					<p class = "legende">10. Non utilisé</p>
+					<p class = "legende">11. Non utilisé</p>
 					</tr>
-
+					</td>
 					<tr>
 						<td colspan="2"><h3>Les manettes des gaz</h3></td>
 					</tr>

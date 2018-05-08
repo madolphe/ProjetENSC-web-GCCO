@@ -15,6 +15,28 @@ include_once "../header.php";
 	<hr/>
 </div>
 
+<div class="container">
+	<h3>Matériel cockpit</h3>
+
+	<h4>Partie affichage (écran)</h4>
+	<ul>
+		<li>Câble d'alimentation</li>
+		<li>Câble d'affichage</li>
+	</ul>
+
+	<hr/>
+
+	<h4>Partie électronique</h4>
+	<ul>
+		<li>Manette des gaz
+			<li>Un câble USB (relié au manche)</li>
+		</li>
+		<li>manche
+			<li>Un câble USB (relié au répartiteur)</li>
+		</li>
+	</ul>
+</div>
+
 <div class="container" id="text-materiel">
 	<div class="row" id="volant">
 		<table class="table">

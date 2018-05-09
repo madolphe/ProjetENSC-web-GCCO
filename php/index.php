@@ -3,9 +3,10 @@
 <?php session_start();
 $_SESSION["page"]="index";
 require_once "header.php"?>
-<div class="img-acc">
-	<h1>Projet transdisciplinaire "Cessna"</h1>
-</div>
+    <div class="img-acc text-center">
+        <h1 class="titre">Projet transdisciplinaire "Cessna"</h1>
+    </div>
+
 <div class="presentation-projet">
 	Ici, on présente tout le sujet.
 </div>

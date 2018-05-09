@@ -44,25 +44,26 @@ if($_SESSION["page"]=="hardware"){
 	$soft="";
 }
 ?>
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-	<a class="navbar-brand" href="<?php if(empty($index)){echo "../";}?>index.php">Cessna</a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-		<span class="navbar-toggler-icon"></span>
-	</button>
-	<div class="collapse navbar-collapse" id="navbarColor01">
-		<ul class="navbar-nav ml-auto">
-			<li class="nav-item <?php echo $index ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>index.php">Home <span class="sr-only">(current)</span></a>
-			</li>
-			<li class="nav-item <?php echo $aero ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Aeronautique.php">Aéronautique</a>
-			</li>
-			<li class="nav-item <?php echo $soft ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Simulation</a>
-			</li>
-			<li class="nav-item <?php echo $hard ?>">
-				<a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Matériel</a>
-			</li>
-		</ul>
-	</div>
-</nav>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="<?php if(empty($index)){echo "../";}?>index.php">Cessna</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item <?php echo $index ?>">
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>index.php">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item <?php echo $aero ?>">
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Aeronautique.php">Aéronautique</a>
+                </li>
+                <li class="nav-item <?php echo $soft ?>">
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Simulation</a>
+                </li>
+                <li class="nav-item <?php echo $hard ?>">
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Matériel</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+

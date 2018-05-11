@@ -48,7 +48,7 @@ include_once "../header.php";
             <h2>Vous souhaitez créer des plans de vol</h2>
             <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B. 
                 Vous apprendrez également à manipuler la météo. Pour en savoir plus, cliquez sur le button ci dessous.</p>
-                <a href="CréationScénario.php"><button class="btn btn-primary" type="button">Se former</button></a>
+                <a href="CréationScenario.php"><button class="btn btn-primary" type="button">Se former</button></a>
         </div>
     </section>
     <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
@@ -60,7 +60,7 @@ include_once "../header.php";
                 <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B. 
                     Mais cette fois-ci, vous souhaiter incoporer des pannes pour des raisons expérimentales.
                     Pour en savoir plus, cliquez sur le button ci dessous.</p>
-                    <a href="CréationScénarioPannes.php"><button class="btn btn-primary" type="button">Se former</button></a>
+                    <a href="CreationScenarioPanne.php"><button class="btn btn-primary" type="button">Se former</button></a>
         </div>
     </section>
 </main>

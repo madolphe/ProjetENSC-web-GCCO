@@ -285,4 +285,6 @@ include_once "../header.php";
             </div>
             <div class='col-md-1'></div>
         </div>
+    </div>
+</div>
 		<?php include_once "../footer.php"; ?>

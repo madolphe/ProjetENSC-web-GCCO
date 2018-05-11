@@ -8,14 +8,21 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ProjetCessna</title>
     <?php if($_SESSION["page"]=="index"){?>
-	<link rel="stylesheet" href="../css/bootstrap.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
     <link rel="stylesheet" href="../css/style.css"> <?php } else { ?>
         <link rel="stylesheet" href="../../css/bootstrap.css">
         <link rel="stylesheet" href="../../css/style.css">
-		<link rel="stylesheet" href="../../css/FSX.css">
+        <link rel="stylesheet" href="../../css/FSX.css">
 		<link rel="stylesheet" href="../../css/AttributionCommandes.css">
+		<link rel="stylesheet" href="../../css/Aeronautique.css">
     <?php  } ?>
     <script type="text/javascript" src="../js/canvas.js"></script>
+	<script type="text/javascript" src="../../js/jquery/external/jquery/jquery.js"></script>
+    <script type="text/javascript" src="../../js/jquery/jquery-ui.min.js"></script>
+    
+	
+<!--	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+
 </head>
 <body onload="draw();">
 <?php
@@ -55,13 +62,13 @@ if($_SESSION["page"]=="hardware"){
                     <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item <?php echo $aero ?>">
-                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Aeronautique.php">Aéronautique</a>
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Aeronautique/Menu.php">Aéronautique</a>
                 </li>
                 <li class="nav-item <?php echo $soft ?>">
                     <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Software/BonneSimulation.php">Simulation</a>
                 </li>
                 <li class="nav-item <?php echo $hard ?>">
-                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/MaterielADisposition.php">Matériel</a>
+                    <a class="nav-link" href="<?php if(empty($index)){echo "../";}?>Hardware/DocumentationTechnique.php">Documentation technique</a>
                 </li>
             </ul>
         </div>

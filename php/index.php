@@ -5,6 +5,7 @@ $_SESSION["page"]="index";
 require_once "header.php"?>
     <div class="img-acc text-center">
         <h1 class="titre">Projet transdisciplinaire "Cessna"</h1>
+        <p style ="color:black;"> Réalisé par Maxime Adolphe, Raphael Chirac, Valentin Debenay et Lylia Fauvel <p>
     </div>
 
 <div class="presentation-projet">
@@ -22,13 +23,11 @@ require_once "header.php"?>
         </li>
     </ul>
     <br>
-    C'est dans cette esprit que plusieurs étudiants ingénieurs de l'ENSC ont souhaité répondre à l'appel de projet initié autour d'un simulateur de vol pour A320.
-    Ce fort engouement de la part des étudiants, a permis au client principal, M Théodore Letouzé, de proposé deux axes de recherche supplémentaires dont le projet Cessna fait partie.
-    Ce travail, que vous vous apprété à découvrir, s’articule autour d’un cockpit monoplace déjà existant au sein de l’ENSC, appartenant à l’IMS et situé dans la plateforme technologique de l'école.
-    Ce cockpit était, lors du démarrage du projet, inutilisé en raison d’un matériel contraignant (vidéoprojecteur) et peu immersif (environnement de vol peu convainquant). Enfin, certaines commandes analogiques du cockpit n’étaient plus fonctionnelles.
-    Ce simulateur est d’une part destiné aux professeurs et aux élèves de l’ENSC (Ecole Nationale Supérieure de Cognitique) -représentés par M. Letouzé et M. André- dans le cadre de travaux pratiques. De même il doit être exploitable par les chercheurs de l’IMS (Intégration du Matériau au Système) pour une utilisation plus expérimentale.
-    Finalement, ce simulateur devra être fonctionnel et plus immersif (avec éventuellement l’ajout de nouvelles options comme des écrans tactiles). La remise en état de ce simulateur est nécessaire afin de répondre à un besoin d’utilisation éducative et scientifique.
-
+    Pour en savoir plus le projet et la manière dont-il a été géré, cliquez sur le bouton suivant.
+    <br>
+    <div class="row" >
+        <a href="Projet.php" style="margin:auto;"><button type="button" class="btn btn-danger">En savoir plus</button></a>
+    </div>
 </div>
 <div class="img-acc2"></div>
 
@@ -48,11 +47,11 @@ require_once "header.php"?>
         <canvas id="lien1" width="1000" height="70" style="margin-left: 75px;"></canvas>
     </div>
     <div class="row">
-        <div class="col-4 text-center">	<a href="Aeronautique/Aeronautique.php"><button type="button" class="btn btn-primary">Aéronautique</button></a>
+        <div class="col-4 text-center">	<a href="Aeronautique/Menu.php"><button type="button" class="btn btn-primary">Aéronautique</button></a>
         </div>
         <div class="col-4 text-center">	<a href="Software/BonneSimulation.php"><button type="button" class="btn btn-primary">Simulation</button></a>
         </div>
-        <div class="col-4 text-center"> <a href="Hardware/MaterielADisposition.php"><button type="button" class="btn btn-primary">Matériel</button></a>
+        <div class="col-4 text-center"> <a href="Hardware/MaterielADisposition.php"><button type="button" class="btn btn-primary">Documentation technique</button></a>
         </div>
     </div>
     <div class="row text-center">
@@ -63,7 +62,7 @@ require_once "header.php"?>
         </div>
         <div class="col-4 text-center">	<a href="Software/BonneSimulation.php"><button type="button" class="btn btn-outline-primary">Bonne Simulation</button></a>
         </div>
-        <div class="col-4 text-center">	<a href="Hardware/NoticeUtilisation.php"><button type="button" class="btn btn-outline-primary">Notice d'utilisation</button></a>
+        <div class="col-4 text-center">	<a href="Hardware/MaterielADisposition.php"><button type="button" class="btn btn-outline-primary">Matériel</button></a>
         </div>
     </div>
     <div class="row text-center">
@@ -74,12 +73,14 @@ require_once "header.php"?>
         </div>
         <div class="col-4 text-center">	<a href="Software/FSX.php"><button type="button" class="btn btn-outline-primary">Flight Simulator X</button></a>
         </div>
+        <div class="col-4 text-center">	<a href="Hardware/MethodeMASK.php"><button type="button" class="btn btn-outline-primary">Méthode MASK</button></a>
+        </div>
         <div class="row text-center">
             <canvas id="lien4" width="1000" height="50" style="margin-left: 75px;"></canvas>
         </div>
     </div>
     <div class="row">
-        <div class="col-4 text-center">	<a href="Aeronautique/NouvelleTechnologie.php"><button type="button" class="btn btn-outline-primary">Nouvelle technologie</button></a>
+        <div class="col-4 text-center">	<a href="Aeronautique/NouvelleTechnologie.php"><button type="button" class="btn btn-outline-primary">Développer vos connaissances</button></a>
         </div>
         <div class="col-4 text-center">	<a href="Software/AttributionCommandes.php"><button type="button" class="btn btn-outline-primary">Attribution commandes</button></a>
         </div>
@@ -92,13 +93,13 @@ require_once "header.php"?>
         <div class="col-4 text-center">	<a href="Software/CreationScenario.php"><button type="button" class="btn btn-outline-primary">Créer un scénario de Vol</button></a>
         </div>
     </div>
-    <div class="row text-center">
+    <!--<div class="row text-center">
         <canvas id="lien6" width="1000" height="50" style="margin-left: 75px;"></canvas>
     </div>
     <div class="row">
         <div class="col-4 text-center"></div>
         <div class="col-4 text-center">	<a href="Software/CreationScenarioPanne.php"><button type="button" class="btn btn-outline-primary">Scénario avec pannes</button></a>
         </div>
-    </div>
+    </div> -->
 </div>
 <?php require_once "footer.php"?>

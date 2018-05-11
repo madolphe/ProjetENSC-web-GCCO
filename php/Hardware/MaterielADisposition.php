@@ -3,15 +3,13 @@ session_start();
 $_SESSION["page"]="hardware";
 include_once "../header.php";
 ?>
-
+<main>
 <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
 	<div class="container" id="text-materiel">
 		<h3>Le simulateur</h3>
-		<p>Nous allons parler ici de la partie <b>matérielle</b> du simulateur.
-		<br/>
-		En voici un aperçu :
-		<br/>
-		<i>Image du simu</i></p>
+		<p>Nous allons parler ici de la partie <b>matérielle</b> du simulateur. Il vous sera présenté les différents constituants du simulateur afin que vous comprenniez l'intérêt de chacun de ces éléments.
+		</p>
+	
 	</div>
 </section>
 
@@ -196,5 +194,5 @@ include_once "../header.php";
 		</div>
 	</div>
 </section>
- 
+</main>
 <?php include_once "../footer.php"; ?>

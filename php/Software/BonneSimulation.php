@@ -11,7 +11,8 @@ include_once "../header.php";
         <div class="text">
             <h2> Créer une bonne simulation</h2>
             <p> Tout au long de votre projet, vous devrez réaliser des expérimentations avec un environnement le plus proche de réalité. 
-            Pour cela, la première étape est de connaître les différents critères nécessaires à une bonne immerssion. Pour cela, cliquez sur le bouton.</p>
+            Pour cela, la première étape consiste àcconnaître les différents critères nécessaires pour rendre le simuateur immerssif. 
+            Pour en savoir plus, cliquez sur le bouton.</p>
                 <a href="SimulationImmerssion.php"><button class="btn btn-primary" type="button">En savoir plus</button></a>
         </div>
     </section>
@@ -22,7 +23,7 @@ include_once "../header.php";
         </div>
         <div class ="col-md-4">
             <h2> Flight simulator X</h2>
-            <p> Pour en savoir plus sur ce logiciel de simulation de vol, cliquez sur le button ci dessous.</p>
+            <p> Pour en savoir plus sur ce logiciel de simulation de vol utilisé, cliquez sur le button ci-dessous.</p>
                 <a href="FSX.php"><button class="btn btn-primary" type="button">En savoir plus</button></a>
         </div>
     </section>
@@ -33,9 +34,9 @@ include_once "../header.php";
         </div>
         <div class ="col-md-4">
             <h2>Attribution de nouvelles commandes</h2>
-            <p> Dans cette rubrique vous apprendrez à modifier/ajouter de nouvelles commandes pour une immerssion plus réaliste. 
+            <p> Dans cette rubrique vous apprendrez à modifier/ajouter de nouvelles commandes sur FSX. 
                 Pour ce faire, vous aurez deux moyens à votre disposition, avec FSX et avec FSUIPC. <strong> Il est recommandé de passer par FSUIPC.</strong>
-                 Pour en savoir plus, cliquez sur le button ci dessous.</p>
+                 Pour en savoir plus, cliquez sur le button ci-dessous.</p>
                 <a href="AttributionCommandes.php"><button class="btn btn-primary" type="button">Se former</button></a>
         </div>
     </section>
@@ -46,23 +47,35 @@ include_once "../header.php";
         </div>
         <div class ="col-md-4">
             <h2>Vous souhaitez créer des plans de vol</h2>
+<<<<<<< HEAD
             <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B. 
                 Vous apprendrez également à manipuler la météo. Pour en savoir plus, cliquez sur le button ci dessous.</p>
                 <a href="CréationScenario.php"><button class="btn btn-primary" type="button">Se former</button></a>
+=======
+            <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B, sans création de panne. 
+                Vous apprendrez également à manipuler la météo. Pour en savoir plus, cliquez sur le button ci-dessous.</p>
+                <a href="CreationScenario.php"><button class="btn btn-primary" type="button">Se former</button></a>
+>>>>>>> a90ed14b253d3bb33d41e22206203061edc0b282
         </div>
     </section>
-    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+   <!-- <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
         <div class = "col-md-6">
                 <img src="../../images/PlanVol.png" alt="Card image"/>
         </div>
         <div class ="col-md-4">
             <h2>Vous souhaitez créer des scénarii avec pannes</h2>
                 <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B. 
+<<<<<<< HEAD
                     Mais cette fois-ci, vous souhaiter incoporer des pannes pour des raisons expérimentales.
                     Pour en savoir plus, cliquez sur le button ci dessous.</p>
                     <a href="CreationScenarioPanne.php"><button class="btn btn-primary" type="button">Se former</button></a>
+=======
+                    Mais cette fois-ci,en incoporant des pannes qui vous permettrons de réaliser des expérimentations.
+                    Pour en savoir plus, cliquez sur le button ci-dessous.</p>
+                    <a href="CréationScénarioPannes.php"><button class="btn btn-primary" type="button">Se former</button></a>
+>>>>>>> a90ed14b253d3bb33d41e22206203061edc0b282
         </div>
-    </section>
+    </section> -->
 </main>
 </body>
 </html>

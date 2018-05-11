@@ -147,39 +147,6 @@ include_once "../header.php";
                         </p>
                     </ol>
                     <hr/>
-
-                    <h4><li>Le train d'atterrissage</li></h4>
-                    <p>
-                        Le train d'atterrissage est destiné à <span class='important'>permettre les manoeuvres au sol (<em>roulage</em>) et à assurer le décollage et l'atterrissage</span>.<br/>
-                        Une fois en vol, le train d'atterrissage constitue une gêne car il augmente la traînée de l'appareil (résistance à l'air). Sur les avions rapides
-                        le train peut s'escamoter dans le fuselage ou dans les ailes. On parle alors de <span class='important'>trains rentrants</span>. Dans le cas constraire, il est quelifié de <span class='important'>fixe</span>.
-                    </p>
-                    <ol type='A'>
-                        <strong><li>Les trains classiques</li></strong>
-                        <p>
-                            Ils sont constitués de <span class='important'>deux jambes principales et d'une roulette de queue</span>.
-                        </p>
-                        <p class='image'>
-                            <img src="../../images/Aeronautique/image12.png" alt="Train d'atterrissage classique" title="Train d'atterrissage classique"/>
-                        </p>
-                        <p>
-                            Lorsqu'il est au sol, l'avion est incliné vers l'arrière. Les avions possédant ce type d'atterrisseurs sont de ce fait plus difficiles à poser.
-                            <span class='important'>L'angle de garde</span> (voir schéma ci-dessus) est alors d'une vingtaine de degrés pour éviter de basculement sur le nez (<em>mise en pylône</em>).
-                        </p>
-                        <strong><li>Les trains tricycles</li></strong>
-                        <p>
-                            Ils sont constitués de <span class='important'>deux jambes de train principale et d'une roulette de nez</span>.
-                        </p>
-                        <p class='image'>
-                            <img src="../../images/Aeronautique/image13.png" alt="Train d'atterrissage tricycle" title="Train d'atterrissage tricycle"/>
-                        </p>
-                        <p>
-                            Ce type de train est très courant. Aussi bien pour les petits que les gros avions. Lorsqu'il est au sol, l'avion est à l'horizontale. Cela facilite nettement les
-                            manoeuvres en phase de roulage, car la visibilité vers l'avant est dégagée. L'angle de garde est d'une quinzaine de degrés pour éviter le basculement sur la queue.
-                        </p>
-                    </ol>
-                    <hr/>
-
                     <h4><li>Les commandes de vol</li></h4>
                     <ol type='A'>
                         <strong><li>Les axes de mouvement</li></strong>

@@ -1,0 +1,13 @@
+p, th, td, ul
+{
+    color: black;
+}
+h4
+{
+    color: rgb(68, 3, 3);
+}
+th{
+    text-align: center;
+    color: rgb(68, 3, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -62,6 +62,12 @@ function draw() {
         ctx.stroke();
         ctx.closePath();
 
+        ctx.beginPath();
+        ctx.moveTo(850,0);
+        ctx.lineTo(850,50);
+        ctx.stroke();
+        ctx.closePath();
+
     }
     var canvas = document.getElementById('lien4');
     var ctx = canvas.getContext('2d');

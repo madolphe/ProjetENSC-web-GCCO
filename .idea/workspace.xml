@@ -2,102 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c0a404-0506-4541-a621-825c1c444b7a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/Aeronautique.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/Contact.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/Equipe.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/Projet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Activite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Altimètre.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Anémomètre.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Blocradio.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Ecrans.JPG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Gyroscope.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Horizon.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Instruments.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Moteur.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/OIDC.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Phenomene.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Scinder1.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Scinder2.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Tache.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Variometre.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Virage.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Vues.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/cockpitVue.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image22.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image23.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image25.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image26.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/image9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/max.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/AUTHORS.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/external/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_444444_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_555555_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_777620_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_777777_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_cc0000_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/images/ui-icons_ffffff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.structure.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.structure.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/jquery-ui.theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/AllerPlusLoin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Aeronautique/Menu.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Hardware/AfficheMindMap.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Hardware/MethodeMASK.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Projet.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/Software/ScinderEcran.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/Cessna.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cessna-web-master.zip" afterPath="" />
       <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/images/moto et motard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/Aeronautique/Aeronautique.php" afterPath="$PROJECT_DIR$/php/Aeronautique/Aeronautique.php" />
-      <change beforePath="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" afterPath="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" />
+      <change beforePath="$PROJECT_DIR$/js/canvas.js" afterPath="$PROJECT_DIR$/js/canvas.js" />
+      <change beforePath="$PROJECT_DIR$/php/Aeronautique/Menu.php" afterPath="$PROJECT_DIR$/php/Aeronautique/Menu.php" />
       <change beforePath="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" afterPath="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" />
-      <change beforePath="$PROJECT_DIR$/php/Aeronautique/PhaseVol.php" afterPath="$PROJECT_DIR$/php/Aeronautique/PhaseVol.php" />
-      <change beforePath="$PROJECT_DIR$/php/Contact.php" afterPath="$PROJECT_DIR$/php/Contact.php" />
       <change beforePath="$PROJECT_DIR$/php/Equipe.php" afterPath="$PROJECT_DIR$/php/Equipe.php" />
-      <change beforePath="$PROJECT_DIR$/php/Hardware/MaterielADisposition.php" afterPath="$PROJECT_DIR$/php/Hardware/MaterielADisposition.php" />
-      <change beforePath="$PROJECT_DIR$/php/Hardware/NoticeUtilisation.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/php/Software/AttributionCommandes.php" afterPath="$PROJECT_DIR$/php/Software/AttributionCommandes.php" />
+      <change beforePath="$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php" afterPath="$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php" />
+      <change beforePath="$PROJECT_DIR$/php/Hardware/MethodeMASK.php" afterPath="$PROJECT_DIR$/php/Hardware/MethodeMASK.php" />
       <change beforePath="$PROJECT_DIR$/php/Software/BonneSimulation.php" afterPath="$PROJECT_DIR$/php/Software/BonneSimulation.php" />
       <change beforePath="$PROJECT_DIR$/php/Software/CreationScenario.php" afterPath="$PROJECT_DIR$/php/Software/CreationScenario.php" />
       <change beforePath="$PROJECT_DIR$/php/Software/FSX.php" afterPath="$PROJECT_DIR$/php/Software/FSX.php" />
-      <change beforePath="$PROJECT_DIR$/php/footer.php" afterPath="$PROJECT_DIR$/php/footer.php" />
-      <change beforePath="$PROJECT_DIR$/php/header.php" afterPath="$PROJECT_DIR$/php/header.php" />
+      <change beforePath="$PROJECT_DIR$/php/Software/ScinderEcran.php" afterPath="$PROJECT_DIR$/php/Software/ScinderEcran.php" />
       <change beforePath="$PROJECT_DIR$/php/index.php" afterPath="$PROJECT_DIR$/php/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,41 +25,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/index.php">
+      <file leaf-file-name="Menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Aeronautique/Menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aeronautique.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Aeronautique/Aeronautique.php">
+      <file leaf-file-name="DocumentationTechnique.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3855">
-              <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#166#210#0#HTML" expanded="true" />
+                <element signature="e#752#782#0#HTML" expanded="true" />
+                <element signature="e#1103#1147#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodeMASK.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Hardware/MethodeMASK.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="43" column="72" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FSX.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/FSX.css">
+      <file leaf-file-name="AfficheMindMap.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Hardware/AfficheMindMap.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Equipe.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Equipe.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NouvelleTechnologie.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -152,59 +92,41 @@
       <file leaf-file-name="BonneSimulation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <file leaf-file-name="FSX.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Software/FSX.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aeronautique.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/Aeronautique.css">
+      <file leaf-file-name="ScinderEcran.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Software/ScinderEcran.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Equipe.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/Equipe.css">
+      <file leaf-file-name="CreationScenario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Software/CreationScenario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaterielADisposition.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Hardware/MaterielADisposition.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2955">
-              <caret line="197" column="38" lean-forward="false" selection-start-line="197" selection-start-column="38" selection-end-line="197" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="93">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -240,21 +162,26 @@
         <option value="$PROJECT_DIR$/php/Aéronautique/NouvelleTechnologie.php" />
         <option value="$PROJECT_DIR$/php/Aéronautique/PhaseVol.php" />
         <option value="$PROJECT_DIR$/php/Autre/Equipe.php" />
-        <option value="$PROJECT_DIR$/php/Equipe.php" />
-        <option value="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" />
         <option value="$PROJECT_DIR$/php/Aeronautique/PhaseVol.php" />
         <option value="$PROJECT_DIR$/php/Software/CréationScénario.php" />
         <option value="$PROJECT_DIR$/php/Software/CréationScénarioPanne.php" />
-        <option value="$PROJECT_DIR$/php/Software/FSX.php" />
         <option value="$PROJECT_DIR$/php/Contact.php" />
         <option value="$PROJECT_DIR$/php/Aeronautique/Instrumentation.php" />
-        <option value="$PROJECT_DIR$/js/canvas.js" />
         <option value="$PROJECT_DIR$/php/header.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/js/canvas.js" />
         <option value="$PROJECT_DIR$/php/index.php" />
         <option value="$PROJECT_DIR$/php/Aeronautique/Aeronautique.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php" />
+        <option value="$PROJECT_DIR$/php/Aeronautique/Menu.php" />
         <option value="$PROJECT_DIR$/php/Software/BonneSimulation.php" />
-        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/php/Software/FSX.php" />
+        <option value="$PROJECT_DIR$/php/Software/ScinderEcran.php" />
+        <option value="$PROJECT_DIR$/php/Software/CreationScenario.php" />
+        <option value="$PROJECT_DIR$/php/Hardware/MethodeMASK.php" />
+        <option value="$PROJECT_DIR$/php/Equipe.php" />
+        <option value="$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php" />
       </list>
     </option>
   </component>
@@ -309,6 +236,24 @@
               <item name="Cessna" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Cessna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cessna" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Aeronautique" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Cessna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cessna" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Hardware" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Cessna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cessna" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Software" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -358,18 +303,18 @@
       <workItem from="1524037123714" duration="22108000" />
       <workItem from="1524643946391" duration="5431000" />
       <workItem from="1525342535743" duration="3552000" />
-      <workItem from="1526049661208" duration="39000" />
+      <workItem from="1526049661208" duration="2872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35894000" />
+    <option name="totallyTimeSpent" value="38727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -484,6 +429,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -559,21 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/Equipe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="27" lean-forward="false" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/Contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -606,38 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Aeronautique.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3855">
-          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -656,8 +555,142 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Equipe.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Projet.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/AttributionCommandes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Aeronautique.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="145" column="25" lean-forward="true" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Hardware/DocumentationTechnique.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#166#210#0#HTML" expanded="true" />
+            <element signature="e#752#782#0#HTML" expanded="true" />
+            <element signature="e#1103#1147#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Aeronautique/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/BonneSimulation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/FSX.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/ScinderEcran.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Software/CreationScenario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Hardware/MethodeMASK.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="43" column="72" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Hardware/AfficheMindMap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Equipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Aeronautique/NouvelleTechnologie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>

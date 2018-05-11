@@ -6,12 +6,14 @@ include_once "../header.php";
 <html>
 <body>
 <main class="page landing-page">
-    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+    <section class="clean-block clean-hero ctext" style="background-color:rgb(230, 225, 225);">
         <div class="text">
             <h2>Scindez l'environnement virtuel</h2>
+            <br>
             <p>Une fois que vous avez cliqué sur "<strong>Décoller</strong>" dans le menu principal de FSX, vous aurez la possibilité de détacher l'environnement vrituel intérieur (cockpit) de l'environnement extérieur.
             En effet, pour une meilleure immersion, il s'agira d'afficher l'environnement virtuel sur l'écran principal (écran externe) et d'afficher le tableau de bord de l'avion sur l'écran disposé dans le simulateur. </p>
             <p>Suivez les différentes étapes ci-dessous ou bien visionnez la vidéo suivante.</p>
+            <br>
             <button type="button" class="btn btn-info" id="button_video"><a href="javascript:showPopup();" title="Montrer le popup">Voir la vidéo</a></button>
         </div>
     </section>

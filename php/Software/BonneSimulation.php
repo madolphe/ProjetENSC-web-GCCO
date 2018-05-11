@@ -8,11 +8,14 @@ include_once "../header.php";
 <main class="page landing-page">
 
     <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+        <div class ="col-md-4">
         <div class="text">
             <h2> Créer une bonne simulation</h2>
+            <br>
             <p> Tout au long de votre projet, vous devrez réaliser des expérimentations avec un environnement le plus proche de réalité. 
             Pour cela, la première étape consiste àcconnaître les différents critères nécessaires pour rendre le simuateur immerssif. 
             Pour en savoir plus, cliquez sur le bouton.</p>
+            <br>
                 <a href="SimulationImmerssion.php"><button class="btn btn-primary" type="button">En savoir plus</button></a>
         </div>
     </section>
@@ -47,15 +50,10 @@ include_once "../header.php";
         </div>
         <div class ="col-md-4">
             <h2>Vous souhaitez créer des plans de vol</h2>
-<<<<<<< HEAD
-            <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B. 
-                Vous apprendrez également à manipuler la météo. Pour en savoir plus, cliquez sur le button ci dessous.</p>
-                <a href="CréationScenario.php"><button class="btn btn-primary" type="button">Se former</button></a>
-=======
+
             <p> Dans cette rubrique vous apprendrez à créer un plan de vol pour aller d'un point A à un point B, sans création de panne. 
                 Vous apprendrez également à manipuler la météo. Pour en savoir plus, cliquez sur le button ci-dessous.</p>
                 <a href="CreationScenario.php"><button class="btn btn-primary" type="button">Se former</button></a>
->>>>>>> a90ed14b253d3bb33d41e22206203061edc0b282
         </div>
     </section>
    <!-- <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">

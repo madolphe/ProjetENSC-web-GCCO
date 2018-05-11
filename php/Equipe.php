@@ -12,6 +12,7 @@ include_once "header.php"; ?>
 <div class="team-boxed">
     <div class="container">
         <div class="intro">
+            <br>
             <h2 class="text-center">L'équipe</h2>
             <p class="text-center">Voici l'équipe qui compose le projet transdisciplinaire Cessna pour l'année 2017-2018.</p>
         </div>
@@ -39,6 +40,7 @@ include_once "header.php"; ?>
 					<li>Enseirb-Matmeca Filière informatique</li></p>
 				</div>
 			</div>
+            <div class="col-md-2 col-lg-4 item"></div>
 			<div class="col-md-2 col-lg-4 item">
                 <div class="box"><img class="rounded-circle" src="../images/Lylou.png" />
                     <h3 class="name">Lylia Fauvel</h3>

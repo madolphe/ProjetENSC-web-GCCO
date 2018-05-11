@@ -24,7 +24,7 @@ require_once "header.php"?>
     </ul>
     <br>
     Pour en savoir plus le projet et la manière dont-il a été géré, cliquez sur le bouton suivant.
-    <br>
+    <br><br>
     <div class="row" >
         <a href="Projet.php" style="margin:auto;"><button type="button" class="btn btn-danger">En savoir plus</button></a>
     </div>
@@ -32,7 +32,7 @@ require_once "header.php"?>
 <div class="img-acc2"></div>
 
 <div class="container arborescence text-center">
-    <div class="row" style="margin-top: 15px;margin-bottom: 15px;">
+    <div class="row text-center" style="margin-top: 15px;margin-bottom: 15px;">
         <h3> Organisation du site : </h3>
         <br>
         <h5> <em>L'objectif de ce site étant en partie la transmission du savoir, en voici l'organisation. Cela vous permettra d'accéder rapidemment à un contenu. </em></h5>

@@ -26,9 +26,10 @@
     vertical-align: bottom;
 }
 
-.presentation-projet h3
+.presentation-projet
 {
     color: rgb(65, 3, 3);
+    padding: 20px;
 }
 
 h1
@@ -139,4 +140,8 @@ h1.titre{
 #sous-item
 {
     color:#C0C0C0;
+}
+.ctext{
+    padding-left: 100px;
+    padding-right: 100px;
 }

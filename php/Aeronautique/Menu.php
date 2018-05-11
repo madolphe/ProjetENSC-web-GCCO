@@ -8,10 +8,12 @@ include_once "../header.php";
 <main class="page landing-page">
 
     <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+        <div class ="col-md-4">
         <div class="text">
             <h2> Notions aéronautiques</h2>
+            <br>
             <p> Dans cette rubrique vous apprendrez les notions essentielles au pilotage. 
-                En effet, le but étant de vous former aux rudiments aéronautique dans le but de créer des protocoles expérimentaux viables.</p>
+                En effet, le but est de vous former aux rudiments aéronautique dans le but de créer des protocoles expérimentaux viables.</p>
         </div>
     </section>
 

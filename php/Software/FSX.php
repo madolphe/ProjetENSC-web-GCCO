@@ -6,9 +6,10 @@ include_once "../header.php";
 <html>
 <body>
 <main class="page landing-page">
-    <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+    <section class="clean-block clean-hero ctext" style="background-color:rgb(230, 225, 225);">
         <div class="text">
             <h2>Flight Simulator X</h2>
+            <br>
             <p>FSX est un logiciel de simulation de vol qui vous immergera dans la peau d'un pilote. 
             Vous aurez la possibilité de réaliser des vols libres, de changer d'avion, de modifier la météo, pour une expérience de pilotage contrôlée. </p>
         </div>

@@ -3,9 +3,10 @@ session_start();
 $_SESSION['page']="software";
 include_once "../header.php";
 ?>
- <section class="clean-block clean-hero" style="background-color:rgb(230, 225, 225);">
+ <section class="clean-block clean-hero ctext" style="background-color:rgb(230, 225, 225);">
         <div class="text">
             <h2> Créer un plan de vol</h2>
+            <br>
             <p> Pour créer des scénarii de vol sans panne, il vous faudra utiliser flight simulator x. Les scénarii seront donc des plans de vol.
             Suivez les différentes étapes ci-dessous ou bien visionnez la vidéo suivante.</p>
             
